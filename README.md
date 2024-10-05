@@ -1,5 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
+NAME NANDHANA.R
+DEPT CSE
+REG NO 212223040124
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
